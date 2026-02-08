@@ -1,4 +1,4 @@
-# waling-cyber-deck
+# walking-cyber-deck
 
 ## Overview
 
